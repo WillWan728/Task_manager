@@ -1,0 +1,17 @@
+Total number of users registered:['admin', 'will']
+Total number of tasks generated and tracked:3
+..............................................
+admin tasks:
+Number of assigned tasks 2
+Percentage of the total number of tasks that have been assigned to admin:66
+Percentage of tasks completed by admin: 0
+Percentage of the tasks assigned to that user that must still be completed: 100
+Percentage of tasks assigned to that user that have not yet been completed and are overdue: 0
+................................................
+will tasks:
+Number of assigned tasks 1
+Percentage of the total number of tasks that have been assigned to will:33
+Percentage of tasks completed by will: 0
+Percentage of the tasks assigned to that user that must still be completed: 100
+Percentage of tasks assigned to that user that have not yet been completed and are overdue: 0
+................................................
